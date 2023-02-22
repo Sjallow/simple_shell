@@ -1,1 +1,1 @@
-sample_shell group work
+simple_shell group work with ckuka 
